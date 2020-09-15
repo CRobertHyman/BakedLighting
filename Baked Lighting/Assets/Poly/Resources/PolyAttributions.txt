@@ -1,11 +1,5 @@
 This project uses the following items from Poly (http://poly.google.com):
 
-Title: Go kart
-Author: Poly by Google
-URL: https://poly.google.com/view/3hkutVs0AAV
-License: Creative Commons CC-BY
-https://creativecommons.org/licenses/by/3.0/legalcode
-
 Title: T800 Head
 Author: Evol-Love
 URL: https://poly.google.com/view/aH_AFTTZGlL
