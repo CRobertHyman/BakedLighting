@@ -1,7 +1,13 @@
 This project uses the following items from Poly (http://poly.google.com):
 
-Title: T800
+Title: T800 Head
 Author: Evol-Love
-URL: https://poly.google.com/view/3s7zptX9qoA
+URL: https://poly.google.com/view/aH_AFTTZGlL
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Terminator T800
+Author: Evol-Love
+URL: https://poly.google.com/view/3NJXt48lQEE
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
