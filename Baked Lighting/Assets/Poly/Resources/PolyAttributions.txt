@@ -1,0 +1,7 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: T800
+Author: Evol-Love
+URL: https://poly.google.com/view/3s7zptX9qoA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
